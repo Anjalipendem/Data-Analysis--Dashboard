@@ -28,4 +28,4 @@ The Vrinda Store wants to create an annual sales report for 2026. So that, the o
 
 - Percentage of Total Orders delivered
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction <a href=https://github.com/Anjalipendem/Data-Analysis--Dashboard/blob/main/Screenshot%202026-08-02%20152731.png>View Dashboard</a>
